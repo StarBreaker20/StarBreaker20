@@ -15,7 +15,7 @@ graph neural networks.
 
 ### [rendrr — deterministic video editing and rendering](https://github.com/StarBreaker20/Renderer)
 
-[![rendrr video catalog](https://raw.githubusercontent.com/StarBreaker20/Renderer/claude/video-catalog-frame-edit-mt8fhu/docs/rendrr-catalog.jpg)](https://github.com/StarBreaker20/Renderer)
+[![rendrr video catalog](https://raw.githubusercontent.com/StarBreaker20/Renderer/main/docs/rendrr-catalog.jpg)](https://github.com/StarBreaker20/Renderer)
 
 A Next.js and Remotion video editor where the browser preview, paused-frame
 filmstrip, and Lambda export share one composition. Overlays are stored in
